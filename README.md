@@ -1,3 +1,15 @@
+<div>
+<table>
+  <tr>
+    <td style="width: 50%;">
+       <img src="" alt="pic" style="width: 200%; border: none;"/>
+    </td>
+    <td style="width: 50%; vertical-align: top;">
+      <p style="font-family: monospace; font-size: 16px;">
+        Aprender é dificil demais. 👍
+</p>
+</div>
+
 ## Bem-vindo(a) ao meu perfil 😁
 
  <div>
