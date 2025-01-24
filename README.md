@@ -8,7 +8,7 @@
       <p style="font-family: monospace; font-size: 16px;"></p>
 </div>
 
-## Bem-vindo(a) ao meu perfil 😁
+## Bem-vindo(a) ao meu perfil
 
  <div>
    <a href="https://github.com/Karla-BFreitas">
