@@ -2,12 +2,10 @@
 <table>
   <tr>
     <td style="width: 50%;">
-       <img src="" alt="pic" style="width: 200%; border: none;"/>
+       <img src="https://github.com/user-attachments/assets/fbc14150-1335-4f0e-97a2-f16cf6be860c" alt="pic" style="width: 200%; border: none;"/>
     </td>
     <td style="width: 50%; vertical-align: top;">
-      <p style="font-family: monospace; font-size: 16px;">
-        Aprender é dificil demais. 👍
-</p>
+      <p style="font-family: monospace; font-size: 16px;"></p>
 </div>
 
 ## Bem-vindo(a) ao meu perfil 😁
@@ -31,4 +29,5 @@
  
 <div> 
   <a href="https://www.linkedin.com/in/karlabeatrizbarbosa" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+  <a href="https://www.instagram.com/ka.be077" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
 </div>
