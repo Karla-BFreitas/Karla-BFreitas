@@ -2,7 +2,7 @@
 <table>
   <tr>
     <td style="width: 50%;">
-       <img src="https://github.com/user-attachments/assets/fbc14150-1335-4f0e-97a2-f16cf6be860c" alt="pic" style="width: 200%; border: none;"/>
+       <img src="https://github.com/user-attachments/assets/decbf36d-bdc6-427d-b25c-37f42f333b0c" alt="pic" style="width: 200%; border: none;"/>
     </td>
     <td style="width: 50%; vertical-align: top;">
       <p style="font-family: monospace; font-size: 16px;"></p>
